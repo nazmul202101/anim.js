@@ -2,8 +2,8 @@
     position: relative;
     height: 50px;
     width: 50px;
-    margin: 5px;
-    display: inline-block;
+    margin: 5px;display: inline-block;
+    
     color:white;
     text-align: center;
     font-size: 20px;
@@ -33,4 +33,12 @@
 
 .megenta{
     background: #B26671;
+}
+
+.pink{
+    background: #5F298E;
+}
+
+.rose{
+    background: #2873AA;
 }
