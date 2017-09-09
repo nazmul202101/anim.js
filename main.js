@@ -68,23 +68,10 @@ anime({
    
   });
 
-
-  anime({
-    targets: 'div.box.magenta',
-    translateY: [
-      { value: 600, duration: 1100 },
-      { value: 0, duration: 700 }
-    ],
-    rotate: '1000turn',
-    duration: 5000,
-    
-   
-  });
-
   anime({
     targets: 'div.box.pink',
     translateY: [
-      { value: 600, duration: 1100 },
+      { value: 600, duration: 1200 },
       { value: 0, duration: 700 }
     ],
     rotate: '1000turn',
@@ -96,7 +83,7 @@ anime({
   anime({
     targets: 'div.box.rose',
     translateY: [
-      { value: 600, duration: 1100 },
+      { value: 600, duration: 1300 },
       { value: 0, duration: 700 }
     ],
     rotate: '1000turn',

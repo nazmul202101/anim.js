@@ -1,9 +1,13 @@
+body{
+    background: black;
+}
+
 .box{
     position: relative;
     height: 50px;
     width: 50px;
-    margin: 5px;display: inline-block;
-    
+    margin: 5px;
+    display: inline-block;
     color:white;
     text-align: center;
     font-size: 20px;
@@ -24,7 +28,7 @@
 }
 
 .black{
-    background: #100F10;
+    background: #BAAEBA;
 }
 
 .purple{
@@ -32,7 +36,7 @@
 } 
 
 .megenta{
-    background: #B26671;
+    background: #984A56;
 }
 
 .pink{
